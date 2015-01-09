@@ -5,4 +5,4 @@ This project was started after realizing how elegant the SQL syntax is for query
 
 In this example, the SQL query "SELECT Name FROM Customers" is parsed into a lambda expression tree, that is compiled and executed on an instance of List<Customer>.
 
-The SQL syntax supported by this initial commit is extremely limited, but hopefully some smart guys could get involved and add the useful stuff too. For now, only a mere select list from one table source will work.
+> The SQL syntax supported by this initial commit is extremely limited, but hopefully some smart guys could get involved and add the useful stuff too. For now, only a mere select list from one table source will work.
